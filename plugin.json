@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"title": "Phosphor Thin Icons",
+	"description": "Adds Phosphor Thin icons to your blog, available for use in templates",
+	"includes": [
+		"/css/phosphor-thin-style.css"
+	]  
+}
