@@ -3,6 +3,7 @@
 	"title": "Phosphor Thin Icons",
 	"description": "Adds Phosphor Thin icons to your blog, available for use in templates",
 	"includes": [
+		"phosphor-thin-preload.html",
 		"/css/phosphor-thin-style.css"
 	]  
 }
